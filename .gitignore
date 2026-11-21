@@ -1,0 +1,41 @@
+# Visual Studio IDE & user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+
+# Build outputs & intermediate directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+ConsoleApplication2/ConsoleA.70698070/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Compiled & intermediate artifacts
+*.obj
+*.tlog
+*.lastbuildstate
+*.recipe
+*.ilk
+*.exe
+*.pdb
+*.idb
+*.ipch
+*.pch
+*.VC.db
+*.VC.opendb
+*.db
+*.db-shm
+*.db-wal
+*.Build.CppClean.log
+*.FileListAbsolute.txt
