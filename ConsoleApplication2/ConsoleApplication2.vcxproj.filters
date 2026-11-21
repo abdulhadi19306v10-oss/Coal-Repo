@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="lab 4.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="check vowels 1.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="boilerplate.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="check vowels 2.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="FindMin.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="morethen20.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q1.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="quiz prep 1.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="quiz prep 2.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="quiz prep 3.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="small to capital.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="reverse string via stack.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="quiz lab task.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Question 1.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q2 quiz.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q1 quiz.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q2.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q3.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q4.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q5.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q6.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q7.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q8.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q9.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="Q10.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+    <MASM Include="mid task.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="source.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+  </ItemGroup>
+</Project>
